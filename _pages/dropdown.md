@@ -7,7 +7,7 @@ children:
     - title: publications
       permalink: /publications/ 
     - title: Resume
-      permalink: /resume.pdf
+      permalink: /resume/
     - title: divider
     - title: projects
       permalink: /projects/
