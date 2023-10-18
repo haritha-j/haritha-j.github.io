@@ -20,11 +20,8 @@ social: true  # includes social icons at the bottom of the page
  2<sup>nd</sup> year PhD student at the [University of Cambridge](https://www.cam.ac.uk/), working on digitisation of industrial facilities. 
  My research interests are in 3D computer vision and infrastructure digitisation. These days, I'm also fascinated by AI safety.
  
- I graduated with my bachelor's degree from the University of Moratuwa in 2021 specializing in Computer Science and Engineering. I completed my Master of research degree from the Department of Engineering, University of Cambridge in 2022.
+ I graduated with my bachelor's degree from the University of Moratuwa in 2021 specializing in Computer Science and Engineering. I completed my Master of research degree from the Department of Engineering, University of Cambridge in 2022. My academic profile is available [here.](https://www.construction.cam.ac.uk/staff/haritha-jayasinghe)
 
- My academic profile is available [here.](https://www.construction.cam.ac.uk/staff/haritha-jayasinghe)
-
- Reach out to me on [linked-in](https://www.linkedin.com/in/haritha-jayasinghe/) or drop me a [mail.](mailto:jmhaj2@cam.ac.uk)
 
 <H2> Experience </H2>
 
@@ -42,3 +39,18 @@ social: true  # includes social icons at the bottom of the page
 
 - Research Intern,  
 **University of Sydney & CSIRO Data61**, 2019
+
+<H2> Articles </H2>
+
+- [**Refactoring, Modernisation & Feature Addition with Emphasis on GPU Module**](https://pointclouds.org/gsoc-2020/gpu/)  
+Write-up on work carried out during GSoC 2020 on improving CUDA point cloud search functions in PCL. 
+
+- [**Diving into the deep end —Entering the world of computer science research**](https://medium.com/@harithajayasinghe/diving-into-the-deep-end-entering-the-world-of-computer-science-research-part-1-8caadf224ab1)  
+A summary of my experience as a ScholarX mentee.
+
+- [**Unlocking the future with Blockchain Powered Visitor Management and Smart locks**](https://medium.com/@harithajayasinghe/unlocking-the-future-with-blockchain-powered-visitor-management-and-smart-locks-2dab797301ac)  
+Write-up on undergraduate project for a smart lock with a blockchain based visitor authorisation system.
+
+- [**Creating a digital shopping assistant with computer vision**](https://chatbotslife.com/creating-a-digital-shopping-assistant-with-computer-vision-fc436b7355d3)  
+Write-up on undergraduate project on designing a chatbot for shopping queries. Published in *Chatbots life*.
+
