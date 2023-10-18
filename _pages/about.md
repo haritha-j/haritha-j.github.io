@@ -26,7 +26,7 @@ social: true  # includes social icons at the bottom of the page
 
  Reach out to me on [linked-in](https://www.linkedin.com/in/haritha-jayasinghe/) or drop me a [mail.](mailto:jmhaj2@cam.ac.uk)
 
- ### Experience
+<H2> Experience </H2>
 
  - Associate Data Scientist,  
  **Veracity AI** , 2020 - 2021
