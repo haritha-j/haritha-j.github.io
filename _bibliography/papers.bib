@@ -1,6 +1,17 @@
 ---
 ---
 
+@InProceedings{jayasinghe_2024_ECCV,
+  abbr={ECCV},
+  author={Jayasinghe, Haritha and Brilakis, Ioannis},
+  title={Towards a Density Preserving Objective Function for Learning on Point Sets},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2024},
+  selected={true},
+  code={https://github.com/haritha-j/uniformCD},
+  abstract={Accurate measurement of the discrepancy between point sets is crucial for point cloud learning tasks. Chamfer distance (CD) is favoured over more effective loss metrics such as Earth Mover’s Distance (EMD) for this purpose due to its computational efficiency. Previous investigations into loss function improvements almost exclusively focus on 3D losses as static metrics, and ignore their dynamic behaviour during training. We show that directly modifying the correspondence criteria can prevent clustering of points during training, and lead to more uniform point distributions. We propose UniformCD, a novel 3D distance metric that prioritises matching the relative local densities of point neighbourhoods when assigning correspondences. Experiments demonstrate that the proposed loss function improves performance on a variety of tasks such as cloud completion, parametric model optimisation, as well as downstream task performance when used for self-supervised learning, achieving SOTA EMD results among point set objective functions. We show that the proposed method exploits local density information to converge towards globally optimum density distributions, narrowing the disparity between CD and EMD.}
+}
+
 @InProceedings{jayasinghe_2023_BMVC,
   abbr={BMVC},
   author={Jayasinghe, Haritha and Brilakis, Ioannis},
