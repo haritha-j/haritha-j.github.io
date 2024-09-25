@@ -23,6 +23,7 @@ group :jekyll_plugins do
     gem 'webrick'
     gem "htmlbeautifier"
     gem "jekyll-diagrams"
+    gem "jekyll-github-metadata"
 
 
 end
