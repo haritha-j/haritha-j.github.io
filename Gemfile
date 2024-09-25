@@ -22,6 +22,8 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem "htmlbeautifier"
+    gem "jekyll-diagrams"
+
 
 end
 group :other_plugins do
