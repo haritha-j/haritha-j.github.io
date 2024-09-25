@@ -22,8 +22,19 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem "htmlbeautifier"
-    gem "jekyll-diagrams"
     gem "jekyll-github-metadata"
+    gem "htmlcompressor"
+    gem "jekyll-archives"
+    gem "jekyll-diagrams"
+    gem "jekyll-email-protect"
+    gem "jekyll-imagemagick"
+    gem "jekyll-paginate-v2"
+    gem "jekyll-scholar"
+    gem "jekyll-target-blank"
+    gem "jekyll-twitter-plugin"
+    gem "jemoji"
+    gem "unicode_utils"
+    gem "webrick"
 
 
 end
