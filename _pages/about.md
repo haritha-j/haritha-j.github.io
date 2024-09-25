@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
  Trying (semi-succesfully) to get computers to do what I want.
 
- 2<sup>nd</sup> year PhD student at the [University of Cambridge](https://www.cam.ac.uk/), working on 3D modelling of infrastructure.
+ 3<sup>rd</sup> year PhD student at the [University of Cambridge](https://www.cam.ac.uk/), working on 3D modelling of infrastructure.
  My research interests are in 3D computer vision and infrastructure modelling. These days, I'm also fascinated by AI safety.
  
  I graduated with my bachelor's degree from the University of Moratuwa in 2021 specializing in Computer Science and Engineering. I completed my Master of research degree from the Department of Engineering, University of Cambridge in 2022. My academic profile is available [here.](https://www.construction.cam.ac.uk/staff/haritha-jayasinghe)
