@@ -9,7 +9,6 @@ profile:
   image: prof_pic.png
   address: >
 
-
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -22,7 +21,6 @@ social: true  # includes social icons at the bottom of the page
  
  I graduated with my bachelor's degree from the University of Moratuwa in 2021 specializing in Computer Science and Engineering. I completed my Master of research degree from the Department of Engineering, University of Cambridge in 2022. My academic profile is available [here.](https://www.construction.cam.ac.uk/staff/haritha-jayasinghe)
 
-
 <H2> Experience </H2>
 
  - Associate Data Scientist,  
@@ -34,13 +32,23 @@ social: true  # includes social icons at the bottom of the page
  - Google Summer of Code Intern,  
  **Point Cloud Library Organisation**, 2021
 
-- Teaching Assistant (part-time),  
-**University of Moratuwa**, 2021
+ - Teaching Assistant (part-time),  
+ **University of Moratuwa**, 2021
 
-- Research Intern,  
-**University of Sydney & CSIRO Data61**, 2019
+ - Research Intern,  
+ **University of Sydney & CSIRO Data61**, 2019
 
-<H2> Articles </H2>
+<H2> Featured Video </H2>
+
+DRF debate 2024 on Road infrastructure digitalisation, held at the Cambridge Union, where I debated for the proposition
+<div align="center">
+  <iframe width="560" height="315" src="https://youtu.be/4eB8Byyl6so?feature=shared&t=3736"
+          title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
+
+<!-- <H2> Articles </H2>
 
 - [**Refactoring, Modernisation & Feature Addition with Emphasis on GPU Module**](https://pointclouds.org/gsoc-2020/gpu/)  
 Write-up on work carried out during GSoC 2020 on improving CUDA point cloud search functions in PCL. 
@@ -48,9 +56,8 @@ Write-up on work carried out during GSoC 2020 on improving CUDA point cloud sear
 - [**Diving into the deep end —Entering the world of computer science research**](https://medium.com/@harithajayasinghe/diving-into-the-deep-end-entering-the-world-of-computer-science-research-part-1-8caadf224ab1)  
 A summary of my experience as a ScholarX mentee.
 
-- [**Unlocking the future with Blockchain Powered Visitor Management and Smart locks**](https://medium.com/@harithajayasinghe/unlocking-the-future-with-blockchain-powered-visitor-management-and-smart-locks-2dab797301ac)  
-Write-up on undergraduate project for a smart lock with a blockchain based visitor authorisation system.
-
 - [**Creating a digital shopping assistant with computer vision**](https://chatbotslife.com/creating-a-digital-shopping-assistant-with-computer-vision-fc436b7355d3)  
 Write-up on undergraduate project on designing a chatbot for shopping queries. Published in *Chatbots life*.
+ -->
 
+https://www.youtube.com/watch?v=4eB8Byyl6so&pp=ygUKZHJmIGRlYmF0ZQ%3D%3D
