@@ -42,8 +42,10 @@ social: true  # includes social icons at the bottom of the page
 
 Excerpt from the 2024 DRF debate on Road infrastructure digitalisation, held at the Cambridge Union, where I debated for the proposition.
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=4eB8Byyl6so?start=3736"
-          title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/4eB8Byyl6so?start=3376" 
+          title="YouTube video player" frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
   </iframe>
 </div>
@@ -59,5 +61,3 @@ A summary of my experience as a ScholarX mentee.
 - [**Creating a digital shopping assistant with computer vision**](https://chatbotslife.com/creating-a-digital-shopping-assistant-with-computer-vision-fc436b7355d3)  
 Write-up on undergraduate project on designing a chatbot for shopping queries. Published in *Chatbots life*.
  -->
-
-https://www.youtube.com/watch?v=4eB8Byyl6so&pp=ygUKZHJmIGRlYmF0ZQ%3D%3D
