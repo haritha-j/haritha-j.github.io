@@ -40,9 +40,9 @@ social: true  # includes social icons at the bottom of the page
 
 <H2> Featured Video </H2>
 
-DRF debate 2024 on Road infrastructure digitalisation, held at the Cambridge Union, where I debated for the proposition
+Excerpt from the 2024 DRF debate on Road infrastructure digitalisation, held at the Cambridge Union, where I debated for the proposition.
 <div align="center">
-  <iframe width="560" height="315" src="https://youtu.be/4eB8Byyl6so?feature=shared&t=3736"
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=4eB8Byyl6so?start=3736"
           title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
   </iframe>
